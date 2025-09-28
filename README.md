@@ -1,4 +1,6 @@
 #hellowowrld
 
 This is my first project
-Hi from the main branch!
+Both branches said hello:
+- main: Hi from the main branch!
+- feature: Hello from the feature branch!
